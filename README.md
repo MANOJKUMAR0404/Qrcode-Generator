@@ -35,3 +35,4 @@ python qrcode_app.py
 7. Click the "Submit" button to generate the QR code. The image will be saved in your current directory.
 
 ## Screenshots
+![example](https://github.com/MANOJKUMAR0404/Qrcode-Generator/assets/159749880/ceaa9214-1f2c-4618-a136-1b6851de4a98)
